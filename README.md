@@ -6,3 +6,6 @@ it can be run through the Processing software.
 controls:
 ⬆️       w
 ⬇️  and  s
+
+![](Pong--Intro-to-Cs-final-project
+/images of running program/image2.png)
