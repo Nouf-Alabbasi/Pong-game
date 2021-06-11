@@ -7,5 +7,6 @@ controls:
 ⬆️       w
 ⬇️  and  s
 
-![](Pong--Intro-to-Cs-final-project
-/images of running program/image2.png)
+![image](https://user-images.githubusercontent.com/83579909/121716117-b3a79c00-caf0-11eb-847b-95d81df325e0.png)
+![image](https://user-images.githubusercontent.com/83579909/121716250-da65d280-caf0-11eb-94e2-f9e165108729.png)
+
